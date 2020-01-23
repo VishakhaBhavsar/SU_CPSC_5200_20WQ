@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E52A7DC4-81A8-42B6-BA44-F53E9F156381}|Default">
+  <MonoDevelop.Ide.ItemProperties.restapi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/ErrorMessages.cs">
+    <Files>
+      <File FileName="Controllers/TimesheetsController.cs" Line="548" Column="42" />
+      <File FileName="Models/ErrorMessages.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="restapi" expanded="True">
+            <Node name="restapi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="ErrorMessages.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

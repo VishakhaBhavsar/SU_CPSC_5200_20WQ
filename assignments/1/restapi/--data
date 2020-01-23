@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Date: Tue, 14 Jan 2020 12:32:39 GMT
+Content-Type: application/com.my-company.my-product.timesheet-lines+json; charset=utf-8
+Transfer-Encoding: chunked
+
+[
+  {
+    "week": 2,
+    "year": 2018,
+    "day": "wednesday",
+    "hours": 8.0,
+    "project": "CPSC 5200",
+    "recorded": "2020-01-14 12:31:03Z",
+    "updated": "2020-01-14 12:31:03Z",
+    "workDate": "2018-01-10",
+    "id": "79617c1b-2fae-4ba8-9714-28f3a7ce7443",
+    "periodFrom": "2018-01-08",
+    "periodTo": "2018-01-15",
+    "version": "line-0.1"
+  }
+]--_curl_-- "week": 2
+--_curl_-- "year": 2018
+--_curl_-- "day": "thursday"
+--_curl_-- "hours": 8
+--_curl_-- "project": "CPSC 5200" 
